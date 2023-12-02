@@ -5,4 +5,4 @@ year = 2023
 
 
 feature 1 avatar
-need to see merge conflict in main by checking
+need to look merge conflict in main by forcing
