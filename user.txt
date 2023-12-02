@@ -2,3 +2,5 @@ userName = 'Gangadhar939'
 Name = 'Gangadhar'
 gmail = 'gottiveetigangadhar@gmail.com'
 year = 2023
+
+create an avatar for user
